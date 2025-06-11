@@ -1,1 +1,1 @@
-# mediq01
+# MediQ
